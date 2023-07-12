@@ -44,7 +44,7 @@ function decreaseTime() {
   }
 }
 
-function settime(value) {
+function setTime(value) {
   timeEl.innerHTML = `00:${value}`;
 }
 
