@@ -9,7 +9,7 @@ The game consists of three stages:
 2. Timer selection
 3. Game screen
 
-Initially, the game welcomes the user and provides a "Start" button. Once clicked, the user is directed to a timer selection screen. The user can select a game duration (10, 20, or 30 seconds). When a time is chosen, the game screen appears with a countdown timer. The goal is to click on the circle as many times as possible within the selected time.
+Initially, the game welcomes the user and provides a "Start" button. Once clicked, the user is directed to a timer selection screen. The user can select a game duration (10, 20, or 30 seconds). When a time is chosen, the game screen appears with a countdown timer. The goal is to click on the circle as often as possible within the selected time.
 
 ## Files
 
@@ -19,7 +19,7 @@ The project includes three main files:
 
 2. `styles.css`: The CSS file that handles the styling of the game screens, buttons, and the moving circle.
 
-3. `app.js`: The JavaScript file that contains the game's functionality. This includes moving the circle to random locations, keeping score, and handling the countdown timer.
+3. `app.js`: The JavaScript file that contains the game's functionality. This includes moving the circle to random locations, keeping the score, and handling the countdown timer.
 
 ## Usage
 
